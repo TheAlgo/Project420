@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920545609640",
+    "firebase_url": "https://attendance-1b2bc.firebaseio.com",
+    "project_id": "attendance-1b2bc",
+    "storage_bucket": "attendance-1b2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920545609640:android:ad8d2d010b414b54",
+        "android_client_info": {
+          "package_name": "com.thealgo.android.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920545609640-0g6mv1g3jd01h9ouu133enhqg4cvjmgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjO5knTxwZ1RavULIVWPM3rjqxdguPdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
